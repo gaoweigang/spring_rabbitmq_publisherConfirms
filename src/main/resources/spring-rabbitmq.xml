@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:rabbit="http://www.springframework.org/schema/rabbit"
+       xmlns:context="http://www.springframework.org/schema/context"   
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/rabbit
+    http://www.springframework.org/schema/rabbit/spring-rabbit-1.5.xsd
+    http://www.springframework.org/schema/context 
+    http://www.springframework.org/schema/context/spring-context.xsd">
+    
+    <!-- rabbitmq注解驱动，queue litener 观察 监听模式 当有消息到达时会通知监听在对应的队列上的监听对象 -->  
+    <rabbit:annotation-driven />
+    
+    <!-- 自动扫描包，开启注解扫描 base-package属性：指定需要扫描的包,多个包之间使用,号隔开 a.b.c a.b.d a.b.e -->
+    <context:component-scan base-package="com.gwg"></context:component-scan>
+    
+
+	<!-- spring的属性加载器，加载properties文件中的属性 -->
+	<bean id="propertyConfigurer"
+		class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+		<property name="location">
+			<value>config.properties</value>
+		</property>
+		<property name="fileEncoding" value="UTF-8" />
+	</bean>
+
+    
+
+</beans>

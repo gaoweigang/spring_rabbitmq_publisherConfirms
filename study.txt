@@ -1,0 +1,11 @@
+1.如果消息没有到exchange,则confirm回调,ack=false
+2.如果消息到达exchange,则confirm回调,ack=true
+
+模拟失败场景：不让消息到达exchange,消息自然也不可能到达queue
+1.指定不存在的exchange和queue
+
+模拟成功场景：让消息到达exchange,但不让消息到达queue
+1.指定存在的exchange
+2.指定不存在的queue或者说存在queue,但是不让exchange和queue绑定
+
+参考：https://www.cnblogs.com/wangzhongqiu/p/7815529.html

@@ -1,0 +1,63 @@
+[INFO] 2018-07-11 14:12:14.441 [main] [com.gwg.demo.config.RabbitMQConfig]49 - 用户名：hbsit， 密码：hbsit， 端口号：5672， 虚拟主机：/hbsit 
+[INFO] 2018-07-11 14:12:15.058 [main] [com.gwg.demo.sender.HelloSender]25 - rabbitTemplate :org.springframework.amqp.rabbit.core.RabbitTemplate@6f7923a5 
+[INFO] 2018-07-11 14:12:15.059 [main] [com.gwg.demo.sender.HelloSender]27 - Sender : hello gwg Wed Jul 11 14:12:15 CST 2018 
+[INFO] 2018-07-11 14:13:15.971 [main] [com.gwg.demo.config.RabbitMQConfig]49 - 用户名：hbsit， 密码：hbsit， 端口号：5672， 虚拟主机：/hbsit 
+[INFO] 2018-07-11 14:13:16.436 [main] [com.gwg.demo.sender.HelloSender]25 - rabbitTemplate :org.springframework.amqp.rabbit.core.RabbitTemplate@6f7923a5 
+[INFO] 2018-07-11 14:13:16.436 [main] [com.gwg.demo.sender.HelloSender]27 - Sender : hello gwg Wed Jul 11 14:13:16 CST 2018 
+[INFO] 2018-07-11 14:20:20.739 [main] [com.gwg.demo.config.RabbitMQConfig]49 - 用户名：hbsit， 密码：hbsit， 端口号：5672， 虚拟主机：/hbsit 
+[INFO] 2018-07-11 14:20:21.188 [main] [com.gwg.demo.sender.HelloSender]25 - rabbitTemplate :org.springframework.amqp.rabbit.core.RabbitTemplate@41005828 
+[INFO] 2018-07-11 14:20:21.188 [main] [com.gwg.demo.sender.HelloSender]27 - Sender : hello gwg Wed Jul 11 14:20:21 CST 2018 
+[INFO] 2018-07-19 09:46:17.390 [main] [com.gwg.demo.config.RabbitMQConfig]54 - 用户名：hbsit， 密码：hbsit， 端口号：5672， 虚拟主机：/hbsit 
+[INFO] 2018-07-19 09:46:18.164 [main] [com.gwg.demo.sender.HelloSender]25 - rabbitTemplate :org.springframework.amqp.rabbit.core.RabbitTemplate@41005828 
+[INFO] 2018-07-19 09:46:18.164 [main] [com.gwg.demo.sender.HelloSender]27 - Sender : hello gwg Thu Jul 19 09:46:18 CST 2018 
+[INFO] 2018-07-19 20:03:17.984 [main] [com.gwg.demo.config.RabbitMQConfig]55 - 用户名：hbsit， 密码：hbsit， 端口号：5672， 虚拟主机：/hbsit 
+[INFO] 2018-07-19 20:03:18.489 [main] [com.gwg.demo.sender.HelloSender]25 - rabbitTemplate :org.springframework.amqp.rabbit.core.RabbitTemplate@41294f8 
+[INFO] 2018-07-19 20:03:18.489 [main] [com.gwg.demo.sender.HelloSender]27 - Sender : hello gwg Thu Jul 19 20:03:18 CST 2018 
+[INFO] 2018-07-19 20:04:03.077 [main] [com.gwg.demo.config.RabbitMQConfig]55 - 用户名：hbsit， 密码：hbsit， 端口号：5672， 虚拟主机：/hbsit 
+[INFO] 2018-07-19 20:04:03.516 [main] [com.gwg.demo.sender.HelloSender]25 - rabbitTemplate :org.springframework.amqp.rabbit.core.RabbitTemplate@41294f8 
+[INFO] 2018-07-19 20:04:03.516 [main] [com.gwg.demo.sender.HelloSender]27 - Sender : hello gwg Thu Jul 19 20:04:03 CST 2018 
+[INFO] 2018-07-19 20:05:35.727 [main] [com.gwg.demo.config.RabbitMQConfig]55 - 用户名：hbsit， 密码：hbsit， 端口号：5672， 虚拟主机：/hbsit 
+[INFO] 2018-07-19 20:05:36.170 [main] [com.gwg.demo.sender.HelloSender]25 - rabbitTemplate :org.springframework.amqp.rabbit.core.RabbitTemplate@41294f8 
+[INFO] 2018-07-19 20:05:36.170 [main] [com.gwg.demo.sender.HelloSender]27 - Sender : hello gwg Thu Jul 19 20:05:36 CST 2018 
+[INFO] 2018-07-19 20:08:02.005 [main] [com.gwg.demo.config.RabbitMQConfig]55 - 用户名：hbsit， 密码：hbsit， 端口号：5672， 虚拟主机：/hbsit 
+[INFO] 2018-07-19 20:08:02.324 [main] [com.gwg.demo.sender.HelloSender]25 - rabbitTemplate :org.springframework.amqp.rabbit.core.RabbitTemplate@6ca18a14 
+[INFO] 2018-07-19 20:08:02.325 [main] [com.gwg.demo.sender.HelloSender]27 - Sender : hello gwg Thu Jul 19 20:08:02 CST 2018 
+[INFO] 2018-07-19 20:08:44.930 [main] [com.gwg.demo.config.RabbitMQConfig]55 - 用户名：hbsit， 密码：hbsit， 端口号：5672， 虚拟主机：/hbsit 
+[INFO] 2018-07-19 20:08:45.258 [main] [com.gwg.demo.sender.HelloSender]25 - rabbitTemplate :org.springframework.amqp.rabbit.core.RabbitTemplate@536dbea0 
+[INFO] 2018-07-19 20:08:45.259 [main] [com.gwg.demo.sender.HelloSender]27 - Sender : hello gwg Thu Jul 19 20:08:45 CST 2018 
+[INFO] 2018-07-20 10:25:40.864 [main] [com.gwg.demo.config.RabbitMQConfig]55 - 用户名：hbsit， 密码：hbsit， 端口号：5672， 虚拟主机：/hbsit 
+[INFO] 2018-07-20 10:25:41.152 [main] [com.gwg.demo.sender.HelloSender]28 - rabbitTemplate:org.springframework.amqp.rabbit.core.RabbitTemplate@50029372, exhange:EXCHANGE_DIRECT_TEST, queue:QUEUE_TEST22 
+[INFO] 2018-07-20 10:25:41.152 [main] [com.gwg.demo.sender.HelloSender]30 - Sender : hello gwg Fri Jul 20 10:25:41 CST 2018 
+[INFO] 2018-07-20 10:27:08.699 [main] [com.gwg.demo.config.RabbitMQConfig]55 - 用户名：hbsit， 密码：hbsit， 端口号：5672， 虚拟主机：/hbsit 
+[INFO] 2018-07-20 10:27:08.996 [main] [com.gwg.demo.sender.HelloSender]28 - rabbitTemplate:org.springframework.amqp.rabbit.core.RabbitTemplate@1a5b6f42, exhange:EXCHANGE_DIRECT_TEST, queue:QUEUE_TEST22 
+[INFO] 2018-07-20 10:27:08.996 [main] [com.gwg.demo.sender.HelloSender]30 - Sender : hello gwg Fri Jul 20 10:27:08 CST 2018 
+[INFO] 2018-07-20 10:30:05.328 [main] [com.gwg.demo.config.RabbitMQConfig]55 - 用户名：hbsit， 密码：hbsit， 端口号：5672， 虚拟主机：/hbsit 
+[INFO] 2018-07-20 10:30:05.614 [main] [com.gwg.demo.sender.HelloSender]28 - rabbitTemplate:org.springframework.amqp.rabbit.core.RabbitTemplate@1a5b6f42, exhange:EXCHANGE_DIRECT_TEST, queue:QUEUE_TEST 
+[INFO] 2018-07-20 10:30:05.614 [main] [com.gwg.demo.sender.HelloSender]30 - Sender : hello gwg Fri Jul 20 10:30:05 CST 2018 
+[INFO] 2018-07-20 10:30:05.703 [AMQP Connection 192.168.13.64:5672] [com.gwg.demo.config.RabbitMQConfig]125 - ReturnCallback start .... 
+[INFO] 2018-07-20 10:30:06.704 [AMQP Connection 192.168.13.64:5672] [com.gwg.demo.config.RabbitMQConfig]132 - send message failed: 312 NO_ROUTE 
+[INFO] 2018-07-20 10:34:15.330 [main] [com.gwg.demo.config.RabbitMQConfig]55 - 用户名：hbsit， 密码：hbsit， 端口号：5672， 虚拟主机：/hbsit 
+[INFO] 2018-07-20 10:34:15.610 [main] [com.gwg.demo.sender.HelloSender]28 - rabbitTemplate:org.springframework.amqp.rabbit.core.RabbitTemplate@18f8cd79, exhange:EXCHANGE_DIRECT_TEST, queue:QUEUE_TEST 
+[INFO] 2018-07-20 10:34:15.610 [main] [com.gwg.demo.sender.HelloSender]30 - Sender : hello gwg Fri Jul 20 10:34:15 CST 2018 
+[INFO] 2018-07-20 10:35:56.085 [main] [com.gwg.demo.config.RabbitMQConfig]55 - 用户名：hbsit， 密码：hbsit， 端口号：5672， 虚拟主机：/hbsit 
+[INFO] 2018-07-20 10:35:56.394 [main] [com.gwg.demo.sender.HelloSender]28 - rabbitTemplate:org.springframework.amqp.rabbit.core.RabbitTemplate@28194a50, exhange:EXCHANGE_DIRECT_TEST, queue:QUEUE_TEST 
+[INFO] 2018-07-20 10:35:56.395 [main] [com.gwg.demo.sender.HelloSender]30 - Sender : hello gwg Fri Jul 20 10:35:56 CST 2018 
+[INFO] 2018-07-20 10:35:56.492 [AMQP Connection 192.168.13.64:5672] [com.gwg.demo.config.RabbitMQConfig]125 - ReturnCallback start .... 
+[INFO] 2018-07-20 10:35:57.493 [AMQP Connection 192.168.13.64:5672] [com.gwg.demo.config.RabbitMQConfig]132 - send message failed: 312 NO_ROUTE 
+[INFO] 2018-07-20 10:37:14.746 [main] [com.gwg.demo.config.RabbitMQConfig]55 - 用户名：hbsit， 密码：hbsit， 端口号：5672， 虚拟主机：/hbsit 
+[INFO] 2018-07-20 10:37:15.047 [main] [com.gwg.demo.sender.HelloSender]28 - rabbitTemplate:org.springframework.amqp.rabbit.core.RabbitTemplate@28194a50, exhange:EXCHANGE_DIRECT_TEST, queue:QUEUE_TEST33 
+[INFO] 2018-07-20 10:37:15.048 [main] [com.gwg.demo.sender.HelloSender]30 - Sender : hello gwg Fri Jul 20 10:37:15 CST 2018 
+[INFO] 2018-07-20 10:37:15.129 [AMQP Connection 192.168.13.64:5672] [com.gwg.demo.config.RabbitMQConfig]125 - ReturnCallback start .... 
+[INFO] 2018-07-20 10:37:16.130 [AMQP Connection 192.168.13.64:5672] [com.gwg.demo.config.RabbitMQConfig]132 - send message failed: 312 NO_ROUTE 
+[INFO] 2018-07-20 11:32:05.472 [main] [com.gwg.demo.config.RabbitMQConfig]57 - 用户名：test， 密码：test， 端口号：5672， 虚拟主机：/test 
+[INFO] 2018-07-20 11:32:05.831 [main] [com.gwg.demo.sender.HelloSender]28 - rabbitTemplate:org.springframework.amqp.rabbit.core.RabbitTemplate@28194a50, exhange:EXCHANGE_DIRECT_TEST, queue:QUEUE_TEST 
+[INFO] 2018-07-20 11:32:05.832 [main] [com.gwg.demo.sender.HelloSender]30 - Sender : hello gwg Fri Jul 20 11:32:05 CST 2018 
+[INFO] 2018-07-20 11:33:06.131 [main] [com.gwg.demo.config.RabbitMQConfig]57 - 用户名：hbsit， 密码：hbsit， 端口号：5672， 虚拟主机：/hbsit 
+[INFO] 2018-07-20 11:33:06.417 [main] [com.gwg.demo.sender.HelloSender]28 - rabbitTemplate:org.springframework.amqp.rabbit.core.RabbitTemplate@28194a50, exhange:EXCHANGE_DIRECT_TEST, queue:QUEUE_TEST 
+[INFO] 2018-07-20 11:33:06.418 [main] [com.gwg.demo.sender.HelloSender]30 - Sender : hello gwg Fri Jul 20 11:33:06 CST 2018 
+[INFO] 2018-07-20 11:33:06.540 [AMQP Connection 192.168.13.64:5672] [com.gwg.demo.config.RabbitMQConfig]131 - 发送消息确认, correlationData:null, ack:false,cause:channel error; protocol method: #method<channel.close>(reply-code=404, reply-text=NOT_FOUND - no exchange 'EXCHANGE_DIRECT_TEST' in vhost '/hbsit', class-id=60, method-id=40) 
+[INFO] 2018-07-20 11:37:18.297 [main] [com.gwg.demo.config.RabbitMQConfig]57 - 用户名：hbsit， 密码：hbsit， 端口号：5672， 虚拟主机：/hbsit 
+[INFO] 2018-07-20 11:37:18.621 [main] [com.gwg.demo.sender.HelloSender]28 - rabbitTemplate:org.springframework.amqp.rabbit.core.RabbitTemplate@28194a50, exhange:EXCHANGE_DIRECT_TEST, queue:QUEUE_TEST 
+[INFO] 2018-07-20 11:37:18.621 [main] [com.gwg.demo.sender.HelloSender]30 - Sender : hello gwg Fri Jul 20 11:37:18 CST 2018 
+[INFO] 2018-07-20 11:37:18.758 [AMQP Connection 192.168.13.64:5672] [com.gwg.demo.config.RabbitMQConfig]131 - 发送消息确认, correlationData:null, ack:true,cause:null 
+[INFO] 2018-07-20 11:37:18.759 [AMQP Connection 192.168.13.64:5672] [com.gwg.demo.config.RabbitMQConfig]136 - producer在收到确认消息后，删除本地缓存,以待后续重发，否则不删除本地缓存 
